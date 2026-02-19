@@ -3,4 +3,3 @@
 
 <img width="690" height="440" alt="output" src="https://github.com/user-attachments/assets/ee1d4000-da21-4613-8d95-b3174c119f22" />
 
-#видимо у файли .md неможна додати png файл, тому завантажу його окремо з назвою "Task_08_Conclusions"
